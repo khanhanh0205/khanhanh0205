@@ -79,11 +79,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=nodejs"
-        alt="icon"
+        src="https://skillicons.dev/icons?i=vscode"
         width="65"
-        height="65" />
-      <br />NodeJS
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
     </td>
     <td align="center" width="128">
       <img
