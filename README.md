@@ -95,19 +95,19 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=git"
+        src="https://skillicons.dev/icons?i=workers"
         alt="icon"
         width="65"
         height="65" />
-      <br />Git
+      <br />Workers
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=gitlab"
+        src="https://skillicons.dev/icons?i=redis"
         alt="icon"
         width="65"
         height="65" />
-      <br />GitLab
+      <br />Redis
     </td>
     <td align="center" width="128">
       <img
