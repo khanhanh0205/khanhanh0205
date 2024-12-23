@@ -111,11 +111,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=linux"
+        src="https://skillicons.dev/icons?i=vercel"
         alt="icon"
         width="65"
         height="65" />
-      <br />Linux
+      <br />Vercel
     </td>
     <td align="center" width="128">
       <img
@@ -127,11 +127,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=express"
+        src="https://skillicons.dev/icons?i=sqlite"
         width="65"
         height="65"
         alt="Express" />
-      <br />Express
+      <br />Sqlite
     </td>
   </tr>
 </table>
