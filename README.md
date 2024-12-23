@@ -87,43 +87,43 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/webpack-icon.svg"
+        src="https://skillicons.dev/icons?i=elasticsearch"
         alt="icon"
         width="65"
         height="65" />
-      <br />Webpack
+      <br />Elasticsearch
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        src="https://skillicons.dev/icons?i=git"
         alt="icon"
         width="65"
         height="65" />
-      <br />Docker
+      <br />Git
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/github-icon.svg"
+        src="https://skillicons.dev/icons?i=gitlab"
         alt="icon"
         width="65"
         height="65" />
-      <br />Github
+      <br />GitLab
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        src="https://skillicons.dev/icons?i=linux"
         alt="icon"
         width="65"
         height="65" />
-      <br />MySQL
+      <br />Linux
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=postgres"
+        src="https://skillicons.dev/icons?i=nginx"
         width="65"
         height="65"
-        alt="PostgreSQL" />
-      <br />PostgreSQL
+        alt="icon" />
+      <br />Nginx
     </td>
     <td align="center" width="128">
       <img
