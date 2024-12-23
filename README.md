@@ -71,11 +71,11 @@
     <tr>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/js-icon.svg"
+        src="https://techstack-generator.vercel.app/restapi-icon.svg"
         alt="icon"
         width="65"
         height="65" />
-      <br />JavaScript
+      <br />Rest
     </td>
     <td align="center" width="128">
       <img
